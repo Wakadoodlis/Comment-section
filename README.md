@@ -8,6 +8,8 @@
 - Save comments to local storage;
 - Use if statemnts, cycle throw data, use VUE life hooks and more..
 
+# The quick look at the comment-section app:
+
 <img src="comments.png" alt="comment section foto" align="center" />
 
 ## Build Setup
